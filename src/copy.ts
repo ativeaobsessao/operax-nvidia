@@ -22,7 +22,7 @@ export const copy = {
 
   limited: `⚠️ VAGAS LIMITADAS PARA ESSA OPERAÇÃO!`,
 
-  openBroker: `👉ABRIR A CORRETORA:  r.ryvon.io/l/977/1005`,
+  openBroker: `👉ABRIR A CORRETORA:`,
 
   brokerLink: `r.ryvon.io/l/977/1005`,
 

@@ -73,9 +73,6 @@ export default function App() {
 
         <div className="card">
           <p>{copy.depositInstruction}</p>
-          <a href={'https://' + copy.telegramLink} className="telegram-link" target="_blank" rel="noopener">
-            {copy.telegramLink}
-          </a>
           <button className="cta primary" onClick={openTelegram}>
             📲 ENVIAR COMPROVANTE
           </button>
